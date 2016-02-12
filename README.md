@@ -3,6 +3,8 @@ Original arcade joystick made with an arduino leonardo robotic board,
 latency-zero and open source, build your own authentic arcade controller for your pc,
 raspberry, arcade machine...
 
+Youtube demo:
+
 [![Demo video](http://img.youtube.com/vi/GIniEu1-8ZU/0.jpg)](http://www.youtube.com/watch?v=GIniEu1-8ZU)
 
 Work sending ASCII code messages through the USB simulate keystrokes on a real computer keyboard,
