@@ -13,6 +13,11 @@ is totally efficent, plug & play,  customizable and so easy of configure with fo
 You can repost, share,make changes or any other action.
 But Please remember to mention me and put my github account.
 
+NOTE: now in the folder in the source code, are available 2 versions.
+-1.0 Version is simpler and more understandable, but less efficent in response time.
+-2.0, It is the most recent version is the result of a contribution to the project thanks to the programmer James Putman.
+This new version is more low level code, but it has a great improvement in response time with respect to the original version.
+
 Especifications:
 
 -Open source
