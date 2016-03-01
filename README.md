@@ -14,7 +14,9 @@ You can repost, share,make changes or any other action.
 But Please remember to mention me and put my github account.
 
 NOTE: Now in the source code folder, are available 2 versions.
+
 -1.0 Version is simpler and more understandable, but less efficent in response time.
+
 -2.0, It is the most recent version is the result of a contribution of the programmer James Putman to the project.
 This new version is more low level code, but it has a great improvement in response time with respect to the original version.
 
