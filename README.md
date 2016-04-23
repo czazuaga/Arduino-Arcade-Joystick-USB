@@ -5,7 +5,7 @@ raspberry, arcade machine...
 
 Youtube demo:
 
-[![Demo video](http://img.youtube.com/vi/GIniEu1-8ZU/0.jpg)](http://www.youtube.com/watch?v=GIniEu1-8ZU)
+[![Demo video](http://img.youtube.com/vi/0mmQO6BNBao/0.jpg)](https://www.youtube.com/watch?v=0mmQO6BNBao)
 
 Work sending ASCII code messages through the USB simulate keystrokes on a real computer keyboard,
 is totally efficent, plug & play,  customizable and so easy of configure with for example the emulators.
